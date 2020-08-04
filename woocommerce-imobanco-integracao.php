@@ -38,7 +38,7 @@ if (!defined('WOO_IMOPAY_SELLER_ID')) {
     }
 
     if (!defined('WOO_IMOPAY_BILLET_ORDER_DESCRIPTION')) {
-        define('WOO_IMOPAY_BILLET_ORDER_DESCRIPTION', get_bloginfo('name'). ' - Pedido noboleto');
+        define('WOO_IMOPAY_BILLET_ORDER_DESCRIPTION', get_bloginfo('name'). ' - Pedido no boleto');
     }
 
     if (!defined('WOO_IMOPAY_EXPIRATION_DATE_INCREMENT')) {
